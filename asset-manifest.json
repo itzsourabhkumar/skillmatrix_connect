@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/skillmatrix_connect/static/css/main.e8c5775a.css",
+    "main.js": "/skillmatrix_connect/static/js/main.9b515b05.js",
+    "static/media/support.jpg": "/skillmatrix_connect/static/media/support.13dffa5bdb3a671bcb5b.jpg",
+    "static/media/cyber-bg.png": "/skillmatrix_connect/static/media/cyber-bg.44527257ee32d74ae878.png",
+    "index.html": "/skillmatrix_connect/index.html",
+    "main.e8c5775a.css.map": "/skillmatrix_connect/static/css/main.e8c5775a.css.map",
+    "main.9b515b05.js.map": "/skillmatrix_connect/static/js/main.9b515b05.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8c5775a.css",
+    "static/js/main.9b515b05.js"
+  ]
+}
